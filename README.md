@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/w/wp12663771.jpg)
+![MasterHead](https://wallpapercave.com/w/wp4820354.jpg)
 <h1 align="center">Hi 👋, I'm Bilge Koç</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
