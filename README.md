@@ -15,3 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kocbilge&show_icons=true&locale=en" alt="kocbilge" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kocbilge&" alt="kocbilge" /></p>
+
+![snake gif](https://github.com/KocBilge/KocBilge/blob/output/github-contribution-grid-snake.gif)
