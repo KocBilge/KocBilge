@@ -1,6 +1,7 @@
-![MasterHead](https://wallpapercave.com/w/wp10838622.jpg)
+![MasterHead](https://media.tenor.com/F2Nd3B0M4kcAAAAi/yao-rd-kora.gif)
 <h1 align="center">Hi 👋, I'm Bilge Koç</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/6lZrQwvsvVwAAAAi/rainbow-card.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
