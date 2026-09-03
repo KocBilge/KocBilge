@@ -16,7 +16,7 @@
 
 ### 🤖 AI & Software Engineer
 
-### Machine Learning • NLP • LLM • Computer Vision • Backend • MLOps
+### Machine Learning • NLP • LLM • Computer Vision • Full Stack Dev • MLOps
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=600&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A4%96;Large+Language+Models+%26+NLP+%F0%9F%A7%A0;Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;RAG+%26+Information+Retrieval+%F0%9F%94%8E;Backend+%26+API+Development+%F0%9F%8C%90;MLOps+%26+Production+AI+%E2%9A%99%EF%B8%8F;Building+End-to-End+Intelligent+Systems+%F0%9F%9A%80"
