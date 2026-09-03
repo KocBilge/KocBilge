@@ -321,7 +321,7 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 <p align="center">
 
-<a href="linkedin.com/in/bilge-koç-a873a1243">
+<a href="https://www.linkedin.com/in/bilge-koç-a873a1243/" target="_blank" rel="noreferrer">
   <img
     src="https://img.shields.io/badge/LinkedIn-Bilge%20Koç-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
