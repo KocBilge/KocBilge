@@ -2,7 +2,7 @@
 <!--                     HEADER / HERO                         -->
 <!-- ========================================================= -->
 
-<p align="left">
+<p align="center">
   <img
     src="https://media.tenor.com/F2Nd3B0M4kcAAAAi/yao-rd-kora.gif"
     width="460"
