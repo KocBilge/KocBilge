@@ -32,7 +32,7 @@
 Building intelligent and production-ready systems across  
 **Artificial Intelligence, Machine Learning, Backend Engineering and Modern Software Development.**
 
-<br>
+<br><br>
 
 <img
   src="https://komarev.com/ghpvc/?username=KocBilge&label=Profile%20Views&style=for-the-badge"
@@ -42,10 +42,6 @@ Building intelligent and production-ready systems across
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                        ABOUT ME                           -->
-<!-- ========================================================= -->
 
 # 👩🏻‍💻 About Me
 
@@ -66,7 +62,7 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 - 🔎 RAG, Vector Search, Hybrid Retrieval & Reranking
 - ⚙️ MLOps & Production AI Systems
 - 🐍 Python Backend Development
-- 🌐 Web Applications & REST APIs
+- 🌐 Full Stack & REST API Development
 - 🗄️ SQL & Vector Databases
 - 🧪 Model Evaluation & Experimentation
 - 🐳 Dockerized Applications
@@ -75,10 +71,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 - 🇹🇷 Türkiye ❤️
 
 ---
-
-<!-- ========================================================= -->
-<!--                   ENGINEERING DOMAINS                     -->
-<!-- ========================================================= -->
 
 # 🧠 Engineering Domains
 
@@ -92,6 +84,7 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 | 👁️ Computer Vision | Image Processing, CNNs, Object Detection, YOLO |
 | ⚙️ MLOps | Model Lifecycle, Deployment, Evaluation, Monitoring |
 | 🌐 Backend Engineering | Python, FastAPI, Flask, REST APIs |
+| 🖥️ Full Stack Development | PHP, Laravel, JavaScript, HTML, CSS, Bootstrap |
 | 🗄️ Data Systems | PostgreSQL, MySQL, MSSQL, SQLite, Oracle |
 | 📦 Vector Databases | Qdrant, Embeddings, Similarity Search |
 | 🐳 DevOps | Docker, Git, GitHub, Linux, CI/CD |
@@ -100,10 +93,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                        AI / ML                            -->
-<!-- ========================================================= -->
 
 # 🤖 Artificial Intelligence & Machine Learning
 
@@ -126,10 +115,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                         LLM NLP                           -->
-<!-- ========================================================= -->
 
 # 🧠 LLM & Natural Language Processing
 
@@ -155,10 +140,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                         RAG                               -->
-<!-- ========================================================= -->
-
 # 🔎 RAG & Information Retrieval
 
 <p align="center">
@@ -183,10 +164,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                   COMPUTER VISION                        -->
-<!-- ========================================================= -->
-
 # 👁️ Computer Vision
 
 <p align="center">
@@ -204,11 +181,7 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                      BACKEND                              -->
-<!-- ========================================================= -->
-
-# 🌐 Backend & API Development
+# 🌐 Backend & Full Stack Development
 
 <p align="center">
 
@@ -223,10 +196,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                       DATABASES                           -->
-<!-- ========================================================= -->
 
 # 🗄️ Databases & Data Systems
 
@@ -244,10 +213,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                         DEVOPS                            -->
-<!-- ========================================================= -->
-
 # ⚙️ DevOps & MLOps
 
 <p align="center">
@@ -264,10 +229,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                      ALL TOOLS                            -->
-<!-- ========================================================= -->
-
 # 🛠️ Languages & Tools
 
 <p align="center">
@@ -277,10 +238,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                    ANIMATED BREAK                         -->
-<!-- ========================================================= -->
 
 <div align="center">
 
@@ -297,53 +254,14 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
-
 # 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=KocBilge&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark"
-  alt="Bilge GitHub Stats"
-/>
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KocBilge&layout=compact&langs_count=10&hide_border=true&theme=github_dark"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=KocBilge&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                   PROFILE SUMMARY                         -->
-<!-- ========================================================= -->
-
-# 📊 GitHub Profile Summary
 
 <div align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KocBilge&theme=github_dark"
   width="100%"
-  alt="Profile Details"
+  alt="GitHub Profile Details"
 />
 
 </div>
@@ -355,7 +273,7 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 <img
   width="32%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KocBilge&theme=github_dark"
-  alt="Repos per Language"
+  alt="Repositories per Language"
 />
 
 <img
@@ -367,7 +285,7 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 <img
   width="32%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KocBilge&theme=github_dark"
-  alt="GitHub Statistics"
+  alt="GitHub Stats"
 />
 
 </div>
@@ -386,23 +304,31 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                     CONTRIBUTION SNAKE                    -->
-<!-- ========================================================= -->
-
-# 🐍 Contribution Activity
+# 🔥 GitHub Streak
 
 <div align="center">
 
-![Snake animation](https://github.com/KocBilge/KocBilge/blob/output/github-contribution-grid-snake.svg)
+<img
+  src="https://streak-stats.demolab.com/?user=KocBilge&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    CURRENT FOCUS                          -->
-<!-- ========================================================= -->
+# 💻 Development Activity
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&center=true&vCenter=true&width=900&lines=%E2%9C%A8+Designing+Intelligent+Systems;%F0%9F%A4%96+Developing+AI+%26+Machine+Learning+Solutions;%F0%9F%A7%A0+Researching+Large+Language+Models;%F0%9F%94%8E+Building+RAG+%26+Retrieval+Systems;%F0%9F%91%81%EF%B8%8F+Working+with+Computer+Vision;%F0%9F%8C%90+Developing+Backend+%26+Full+Stack+Applications;%F0%9F%90%B3+Containerizing+Applications+with+Docker;%E2%9A%99%EF%B8%8F+Deploying+Production-Ready+AI"
+  alt="Development Activity"
+/>
+
+</div>
+
+---
 
 # 🎯 Current Focus
 
@@ -425,10 +351,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                  TECHNOLOGY UNIVERSE                      -->
-<!-- ========================================================= -->
-
 # 💫 Technology Universe
 
 <div align="center">
@@ -441,10 +363,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                       CONNECT                             -->
-<!-- ========================================================= -->
 
 # 🤝 Connect With Me
 
@@ -468,15 +386,11 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 ### ✨ ⭐ ✨ ⭐ ✨ ⭐ ✨ ⭐ ✨
 
-### 🤖 AI • ML • NLP • LLM • Computer Vision • Backend • MLOps
+### 🤖 AI • ML • NLP • LLM • Computer Vision • Full Stack • MLOps
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=700&center=true&vCenter=true&width=760&lines=From+Research+to+Production+%F0%9F%9A%80;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Ideas+Into+Working+Software+%E2%9C%A8;Always+Learning+%E2%80%A2+Always+Building+%F0%9F%92%BB"
