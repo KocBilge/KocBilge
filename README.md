@@ -18,4 +18,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kocbilge&" alt="kocbilge" /></p>
 
 ![snake gif](https://github.com/KocBilge/KocBilge/blob/output/github-contribution-grid-snake.gif)
---- buraya da eksik teknolojileri ekle ve en şık hale getir??? kırmızı saçlı değil kahve saçlı kız olsun
