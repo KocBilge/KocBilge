@@ -328,18 +328,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 </div>
 
-
-# 💫 Technology Universe
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=350&center=true&vCenter=true&width=950&lines=%E2%9C%A8+Python+%E2%80%A2+PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+Hugging+Face;%E2%AD%90+LLM+%E2%80%A2+NLP+%E2%80%A2+RAG+%E2%80%A2+Fine-Tuning+%E2%80%A2+Embeddings;%F0%9F%8C%9F+Computer+Vision+%E2%80%A2+CNN+%E2%80%A2+YOLO+%E2%80%A2+Image+Processing;%E2%9C%A8+FastAPI+%E2%80%A2+Flask+%E2%80%A2+REST+API+%E2%80%A2+Microservices;%E2%AD%90+PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+MSSQL+%E2%80%A2+Oracle+%E2%80%A2+Qdrant;%F0%9F%8C%9F+Docker+%E2%80%A2+Linux+%E2%80%A2+Git+%E2%80%A2+CI%2FCD+%E2%80%A2+MLOps"
-  alt="Technology Universe"
-/>
-
-</div>
-
 ---
 
 # 🤝 Connect With Me
