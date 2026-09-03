@@ -72,7 +72,7 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 - 🐳 Dockerized Applications
 - 🔧 Software Architecture & System Design
 - 🎓 Academic Research on Open-Source Large Language Models
-- 🇹🇷 Türkiye
+- 🇹🇷 Türkiye ❤️
 
 ---
 
