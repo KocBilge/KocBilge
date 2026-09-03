@@ -1,20 +1,360 @@
-![MasterHead](https://media.tenor.com/F2Nd3B0M4kcAAAAi/yao-rd-kora.gif)
-<h1 align="center">Hi 👋, I'm Bilge Koç</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ZJp5RSUrtvkAAAAi/rainbow-rainbow-stars.gif">
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bi̇lge koç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bi̇lge koç" height="30" width="40" /></a>
+<img src="https://media.tenor.com/F2Nd3B0M4kcAAAAi/yao-rd-kora.gif" width="320" alt="Developer Animation" />
+
+# Hi 👋, I'm Bilge Koç
+
+### 🤖 AI & Software Engineer
+
+### Machine Learning • NLP • LLM • Computer Vision • Backend • MLOps
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=600&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A4%96;Large+Language+Models+%26+NLP+%F0%9F%A7%A0;Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;RAG+%26+Information+Retrieval+%F0%9F%94%8E;Backend+%26+API+Development+%F0%9F%8C%90;MLOps+%26+Production+AI+%E2%9A%99%EF%B8%8F;Building+End-to-End+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://media.tenor.com/ZJp5RSUrtvkAAAAi/rainbow-rainbow-stars.gif" width="260" alt="Animated Stars" />
+
+<br>
+
+Building intelligent and production-ready systems across  
+**Artificial Intelligence, Machine Learning, Backend Engineering and Modern Software Development.**
+
+</div>
+
+---
+
+# 👩🏻‍💻 About Me
+
+<div align="center">
+
+I am a software engineer working across  
+**Artificial Intelligence, Machine Learning, NLP, LLMs, Computer Vision, Backend Systems and Data-Driven Applications.**
+
+My work focuses on designing and developing **end-to-end intelligent systems**, from data processing and model development to APIs, databases, deployment and production architectures.
+
+</div>
+
+<br>
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models & Natural Language Processing
+- 👁️ Computer Vision & Deep Learning
+- 🔎 RAG, Vector Search, Hybrid Retrieval & Reranking
+- ⚙️ MLOps & Production AI Systems
+- 🐍 Python Backend Development
+- 🌐 Web Applications & REST APIs
+- 🗄️ SQL & Vector Databases
+- 🧪 Model Evaluation & Experimentation
+- 🐳 Dockerized Applications
+- 🔧 Software Architecture & System Design
+- 🎓 Academic Research on Open-Source Large Language Models
+- 🇹🇷 Türkiye
+
+---
+
+# 🧠 Engineering Domains
+
+<div align="center">
+
+| Domain | Technologies & Concepts |
+|---|---|
+| 🤖 Artificial Intelligence | Machine Learning, Deep Learning, Generative AI |
+| 🧠 LLM & NLP | Transformers, Hugging Face, Fine-Tuning, Prompt Engineering |
+| 🔎 Retrieval Systems | RAG, BM25, Dense Retrieval, Hybrid Search, RRF, Reranking |
+| 👁️ Computer Vision | Image Processing, CNNs, Object Detection, YOLO |
+| ⚙️ MLOps | Model Lifecycle, Deployment, Evaluation, Monitoring |
+| 🌐 Backend Engineering | Python, FastAPI, Flask, REST APIs |
+| 🗄️ Data Systems | PostgreSQL, MySQL, MSSQL, SQLite, Oracle |
+| 📦 Vector Databases | Qdrant, Embeddings, Similarity Search |
+| 🐳 DevOps | Docker, Git, GitHub, Linux, CI/CD |
+| 💻 Software Engineering | Architecture, APIs, Testing, Automation |
+
+</div>
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Engineering-1976D2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-673AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-LLM-8E24AA?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kocbilge&show_icons=true&locale=en&layout=compact" alt="kocbilge" /></p>
+# 🧠 LLM & Natural Language Processing
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kocbilge&show_icons=true&locale=en" alt="kocbilge" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kocbilge&" alt="kocbilge" /></p>
+<img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformers-Hugging%20Face-FFD21E?style=for-the-badge" />
 
-![snake gif](https://github.com/KocBilge/KocBilge/blob/output/github-contribution-grid-snake.gif)
+<br>
+
+<img src="https://img.shields.io/badge/Fine--Tuning-LLM-3949AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-LLM-795548?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sentence%20Transformers-Embeddings-0288D1?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🔎 RAG & Information Retrieval
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-5C6BC0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BM25-Sparse%20Retrieval-43A047?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dense%20Retrieval-Embeddings-1E88E5?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Hybrid%20Search-BM25%20%2B%20Dense-673AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RRF-Reciprocal%20Rank%20Fusion-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reranking-Cross%20Encoder-E91E63?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Search-Semantic%20Retrieval-3949AB?style=for-the-badge" />
+
+</p>
+
+---
+
+# 👁️ Computer Vision
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-1565C0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Image%20Processing-CV-00838F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Detection-AI-6A1B9A?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/CNN-Neural%20Networks-4527A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🌐 Backend & API Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,php,laravel,javascript,html,css,bootstrap" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-Architecture-1565C0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-System%20Design-455A64?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🗄️ Databases & Data Systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge" />
+
+</p>
+
+---
+
+# ⚙️ DevOps & MLOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MLOps-Model%20Lifecycle-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Model%20Deployment-Production%20AI-5E35B1?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,php,javascript,html,css,bootstrap,flask,fastapi,laravel,docker,git,github,linux,postgres,mysql,sqlite,postman,vscode" />
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/ZJp5RSUrtvkAAAAi/rainbow-rainbow-stars.gif" width="220" alt="Animated Stars" />
+
+</div>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KocBilge&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KocBilge&layout=compact&langs_count=10&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KocBilge&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KocBilge&hide_border=true&area=true&custom_title=Bilge%20Ko%C3%A7%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+# 📊 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KocBilge&theme=github_dark" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KocBilge&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KocBilge&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KocBilge&theme=github_dark" />
+
+</div>
+
+---
+
+# 🔥 Productivity
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KocBilge&theme=github_dark&utcOffset=3" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KocBilge&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KocBilge&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/KocBilge/KocBilge/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/ZJp5RSUrtvkAAAAi/rainbow-rainbow-stars.gif" width="180" alt="Moving Stars" />
+
+</div>
+
+# 🎯 Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=550&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning;%F0%9F%A7%A0+Large+Language+Models+%26+Natural+Language+Processing;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%26+Deep+Learning;%F0%9F%94%8E+RAG+%26+Advanced+Information+Retrieval;%F0%9F%8C%90+Backend+Engineering+%26+API+Development;%F0%9F%97%84%EF%B8%8F+Databases+%26+Vector+Search;%E2%9A%99%EF%B8%8F+MLOps+%26+Production+AI;%F0%9F%90%B3+Docker+%26+Modern+Deployment;%F0%9F%9A%80+Building+Production-Ready+Intelligent+Systems" alt="Current Focus" />
+
+</div>
+
+---
+
+# 💫 Technology Universe
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=350&center=true&vCenter=true&width=950&lines=%E2%9C%A8+Python+%E2%80%A2+PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+Hugging+Face;%E2%AD%90+LLM+%E2%80%A2+NLP+%E2%80%A2+RAG+%E2%80%A2+Fine-Tuning+%E2%80%A2+Embeddings;%F0%9F%8C%9F+Computer+Vision+%E2%80%A2+CNN+%E2%80%A2+YOLO+%E2%80%A2+Image+Processing;%E2%9C%A8+FastAPI+%E2%80%A2+Flask+%E2%80%A2+REST+API+%E2%80%A2+Microservices;%E2%AD%90+PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+MSSQL+%E2%80%A2+Oracle+%E2%80%A2+Qdrant;%F0%9F%8C%9F+Docker+%E2%80%A2+Linux+%E2%80%A2+Git+%E2%80%A2+CI%2FCD+%E2%80%A2+MLOps" alt="Technology Universe" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Bilge%20Koç-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/KocBilge">
+<img src="https://img.shields.io/badge/GitHub-KocBilge-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KocBilge&label=Profile%20Views&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://media.tenor.com/ZJp5RSUrtvkAAAAi/rainbow-rainbow-stars.gif" width="180" alt="Stars" />
+
+<br>
+
+### 🤖 AI • ML • NLP • LLM • Computer Vision • Backend • MLOps
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=From+research+to+production+%F0%9F%9A%80;Building+intelligent+systems+%F0%9F%A7%A0;Turning+ideas+into+working+software+%E2%9C%A8" alt="Footer typing animation" />
+
+</div>
