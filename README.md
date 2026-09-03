@@ -2,13 +2,23 @@
 <!--                     HEADER / HERO                         -->
 <!-- ========================================================= -->
 
-<p align="center">
+<div align="center">
+
+<table>
+<tr>
+<td width="80"></td>
+<td align="center">
   <img
     src="https://media.tenor.com/F2Nd3B0M4kcAAAAi/yao-rd-kora.gif"
     width="460"
     alt="Developer Animation"
   />
-</p>
+</td>
+<td width="160"></td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
