@@ -328,28 +328,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 </div>
 
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-✨ ⭐ 🌟 ⭐ ✨ ⭐ 🌟 ⭐ ✨
-
-<br><br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=550&center=true&vCenter=true&width=950&lines=%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning;%F0%9F%A7%A0+Large+Language+Models+%26+Natural+Language+Processing;%F0%9F%91%81%EF%B8%8F+Computer+Vision+%26+Deep+Learning;%F0%9F%94%8E+RAG+%26+Advanced+Information+Retrieval;%F0%9F%8C%90+Backend+Engineering+%26+API+Development;%F0%9F%97%84%EF%B8%8F+Databases+%26+Vector+Search;%E2%9A%99%EF%B8%8F+MLOps+%26+Production+AI;%F0%9F%90%B3+Docker+%26+Modern+Deployment;%F0%9F%9A%80+Building+Production-Ready+Intelligent+Systems"
-  alt="Current Focus"
-/>
-
-<br><br>
-
-✨ ⭐ 🌟 ⭐ ✨ ⭐ 🌟 ⭐ ✨
-
-</div>
-
----
 
 # 💫 Technology Universe
 
