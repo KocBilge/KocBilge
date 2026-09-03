@@ -317,24 +317,11 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
 
 ---
 
-# 💻 Development Activity
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&center=true&vCenter=true&width=900&lines=%E2%9C%A8+Designing+Intelligent+Systems;%F0%9F%A4%96+Developing+AI+%26+Machine+Learning+Solutions;%F0%9F%A7%A0+Researching+Large+Language+Models;%F0%9F%94%8E+Building+RAG+%26+Retrieval+Systems;%F0%9F%91%81%EF%B8%8F+Working+with+Computer+Vision;%F0%9F%8C%90+Developing+Backend+%26+Full+Stack+Applications;%F0%9F%90%B3+Containerizing+Applications+with+Docker;%E2%9A%99%EF%B8%8F+Deploying+Production-Ready+AI"
-  alt="Development Activity"
-/>
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="linkedin.com/in/bilge-koç-a873a1243">
   <img
     src="https://img.shields.io/badge/LinkedIn-Bilge%20Koç-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
@@ -362,8 +349,6 @@ My work focuses on designing and developing **end-to-end intelligent systems**, 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=700&center=true&vCenter=true&width=760&lines=From+Research+to+Production+%F0%9F%9A%80;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Ideas+Into+Working+Software+%E2%9C%A8;Always+Learning+%E2%80%A2+Always+Building+%F0%9F%92%BB"
   alt="Footer Animation"
 />
-
-<br>
 
 ### ✨ ⭐ ✨ ⭐ ✨ ⭐ ✨ ⭐ ✨
 
